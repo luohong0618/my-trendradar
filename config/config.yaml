@@ -101,9 +101,6 @@ schedule:
     - id: "zhihu"
       name: "知乎"
       expected_domain: "zhihu.com"
-    - id: "bilibili-hot-search"
-      name: "bilibili 热搜"
-
 
 
 # ===============================================================
